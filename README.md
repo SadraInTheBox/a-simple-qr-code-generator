@@ -1,2 +1,2 @@
 # a-simple-qr-code-generator
-یک بار کد ساز ساده با استفاده از زبان برنامه نویسی پایتون
+simple qr code generator
